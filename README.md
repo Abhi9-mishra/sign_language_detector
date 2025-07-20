@@ -4,12 +4,6 @@ A real-time Sign Language Detection web application built using **Python**, **Me
 
 ---
 
-## 🚀 Demo
-
-https://user-images.githubusercontent.com/your-demo.gif (Add GIF or screen recording here)
-
----
-
 ## 🔧 Tech Stack
 
 - 🐍 Python
